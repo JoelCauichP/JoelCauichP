@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/joel-santiago-cauich-peraza-4554832a9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.facebook.com/joelito.cauich" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/joel.scp/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
@@ -24,7 +24,7 @@
 
 ###
 
-# 👋 Hola, soy Joel Santiago Cauich Peraza
+# Hola, soy Joel Santiago Cauich Peraza
 
 💻 **Ingeniero en Sistemas Computacionales**  
 📍 Yucatán, México  
@@ -54,6 +54,7 @@ Tengo un enfoque orientado a **soluciones escalables**, seguridad, automatizaci�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ☁️ Cloud & DevOps
