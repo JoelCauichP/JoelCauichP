@@ -1,108 +1,101 @@
-# 👋 Hola, soy Joel Santiago Cauich Peraza
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-💻 **Ingeniero en Sistemas Computacionales**  
-📍 Yucatán, México  
-☁️ Desarrollo Web · Móvil · Cloud  
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
 
-## 🚀 Sobre mí
+###
 
-Soy **Ingeniero en Sistemas Computacionales** con **1 año de experiencia** en el desarrollo de aplicaciones **web y móviles**, así como en el **despliegue de soluciones en entornos cloud**.  
-Cuento con bases sólidas en **programación orientada a objetos**, desarrollo **backend y frontend**, manejo de **bases de datos**, uso de **contenedores Docker** y despliegue en **AWS**.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoelCauichP.JoelCauichP" />
+</div>
 
-Me caracterizo por mi capacidad de análisis, adaptación rápida a nuevas tecnologías, trabajo colaborativo y orientación a resultados. :contentReference[oaicite:0]{index=0}
+###
 
----
+<h1 align="center">Hola, soy Joel Santiago Cauich Peraza 👋</h1>
 
-## 🛠️ Tecnologías y Herramientas
+###
 
-### 💻 Desarrollo
-- **Frontend:** HTML, CSS, JavaScript, Vue.js  
-- **Backend:** PHP, Java, Spring Boot  
-- **Bases de datos:** MySQL  
+<h3 align="left">👨‍💻 Sobre mí</h3>
 
-### ☁️ Cloud & DevOps
-- Docker  
-- Kubernetes  
-- AWS (ECS, RDS)  
-- Terraform  
-- Git / GitHub  
+<p align="left">
+Soy <strong>Ingeniero en Sistemas Computacionales</strong> de Yucatán, México, con experiencia en el desarrollo de aplicaciones <strong>web y móviles</strong>, así como en <strong>despliegue de soluciones en la nube</strong>.<br><br>
 
----
+- 🔭 Desarrollo sistemas web y móviles enfocados en soluciones reales<br>
+- 📚 Actualmente fortaleciendo conocimientos en <strong>Cloud, DevOps y Backend</strong><br>
+- ⚡ Me interesa la arquitectura de software, automatización y buenas prácticas
+</p>
 
-## 📌 Experiencia Profesional
+###
 
-### 🏫 Instituto Tecnológico de Mérida (2024 – 2025)  
-**Desarrollador de Software Web y Móvil**
+<h3 align="left">🛠️ Lenguajes y Herramientas</h3>
 
-- Desarrollo de una **aplicación web y móvil** para el registro de asistencias a conferencias mediante **códigos QR**.  
-- Implementación de módulos para **control, seguimiento y generación de reportes**.  
-- Colaboración en proyectos institucionales dentro del Departamento de Sistemas y Computación. :contentReference[oaicite:1]{index=1}
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
+</div>
 
-## 💡 Proyectos Destacados
+###
 
-### 🔹 Sistema de Asistencias con QR
-Aplicación web y móvil para el control de asistencia a eventos académicos, con gestión administrativa y generación de reportes.
+<h3 align="left">🚀 Proyectos Destacados</h3>
 
-**Tecnologías:**  
-`HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `QR`
+<p align="left">
+<strong>📌 QRAsist</strong><br>
+Sistema web y móvil para el registro de asistencias mediante códigos QR, con panel administrativo y reportes.<br>
+Tecnologías: HTML, CSS, JavaScript, PHP, MySQL, Flutter
+</p>
 
----
+<p align="left">
+<strong>📌 Generador Automático de CV con IA</strong><br>
+Aplicación para crear currículums personalizados usando IA generativa y exportación a PDF.<br>
+Tecnologías: JavaScript, IA generativa, PDF
+</p>
 
-### 🔹 Generador Automático de CV con IA (Hackathon TecNM 2025)
-Aplicación web y móvil para la **generación automática de currículums**, utilizando **IA generativa** para personalizar contenido.
+<p align="left">
+<strong>📌 Infraestructura en la Nube con Terraform</strong><br>
+Despliegue de infraestructura en AWS usando Terraform como infraestructura como código (IaC).
+</p>
 
-**Características principales:**
-- Generación de CV personalizados a partir de preguntas clave  
-- Exportación de CV en **PDF**  
-- Listos para compartirse por **WhatsApp o correo electrónico**  
+###
 
-**Tecnologías:**  
-`JavaScript` · `IA generativa` · `PDF` · `UX/UI`
+<h3 align="left">🔥 Estadísticas de GitHub</h3>
 
----
+###
 
-### 🔹 Sistema Web para Consultoría – Conafoc Consultoría
-Sistema web desarrollado para la gestión de consultorías académicas y administrativas.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoelCauichP&theme=dark&hide_border=false&border_radius=5" height="220" />
+</div>
 
-**Funcionalidades:**
-- Backend en **PHP**  
-- Módulos de **facturación electrónica CFDI 4.0**  
-- Seguimiento académico  
-- Base de datos en **MySQL (AWS RDS)**  
-- Despliegue en **AWS ECS con Docker**
+###
 
-**Tecnologías:**  
-`PHP` · `HTML` · `CSS` · `MySQL` · `Docker` · `AWS ECS` · `AWS RDS` :contentReference[oaicite:2]{index=2}
+⭐ <em>Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones escalables.</em>
 
----
-
-## 🌱 Actualmente
-
-- Reforzando conocimientos en **arquitectura cloud** y **sistemas distribuidos**  
-- Profundizando en **backend**, **contenedores** y **buenas prácticas DevOps**  
-- Interesado en proyectos de **ingeniería de software**, **cloud computing** y **desarrollo backend**
-
----
-
-## 🤝 Habilidades Blandas
-
-- Trabajo en equipo  
-- Comunicación efectiva  
-- Resolución de problemas  
-- Iniciativa y proactividad  
-- Disposición constante para aprender  
-
----
-
-## 📫 Contacto
-
-- 📧 **Correo:** joel.cauich.2001@gmail.com  
-- 📱 **Teléfono:** 999 568 7291  
-
----
-
-⭐ *Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones con impacto real.*
