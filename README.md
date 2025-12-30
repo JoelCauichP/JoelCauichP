@@ -71,7 +71,7 @@ Tengo un enfoque orientado a **soluciones escalables**, seguridad, automatizaci�
 ### 🏫 Instituto Tecnológico de Mérida (2024 – 2025)  
 **Desarrollador Backend & Cloud**
 
-- Desarrollo de sistemas **web y móviles** con enfoque backend.
+- Desarrollo de sistemas **PWA, web y móviles** con enfoque backend.
 - Implementación de **registro de asistencias con códigos QR**.
 - Integración con bases de datos y generación de reportes.
 - Participación en proyectos institucionales con metodologías estructuradas.
@@ -135,6 +135,3 @@ Diseño y despliegue de infraestructura en la nube usando **Infrastructure as Co
 📧 **Correo:** joel.cauich.2001@gmail.com  
 📱 **Teléfono:** 999 568 7291  
 
----
-
-⭐ *Perfil orientado a roles de Backend Developer, Cloud Engineer o DevOps Junior.*
