@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
@@ -24,78 +24,116 @@
 
 ###
 
-<h1 align="center">Hola, soy Joel Santiago Cauich Peraza 👋</h1>
+# 👋 Hola, soy Joel Santiago Cauich Peraza
 
-###
+💻 **Ingeniero en Sistemas Computacionales**  
+📍 Yucatán, México  
+☁️ **Cloud & Backend Developer**  
 
-<h3 align="left">👨‍💻 Sobre mí</h3>
+---
 
-<p align="left">
-Soy <strong>Ingeniero en Sistemas Computacionales</strong> de Yucatán, México, con experiencia en el desarrollo de aplicaciones <strong>web y móviles</strong>, así como en <strong>despliegue de soluciones en la nube</strong>.<br><br>
+## 🚀 Perfil Profesional
 
-- 🔭 Desarrollo sistemas web y móviles enfocados en soluciones reales<br>
-- 📚 Actualmente fortaleciendo conocimientos en <strong>Cloud, DevOps y Backend</strong><br>
-- ⚡ Me interesa la arquitectura de software, automatización y buenas prácticas
-</p>
+Soy **Ingeniero en Sistemas Computacionales** con experiencia en **desarrollo backend, cloud computing e infraestructura como código**.  
+He trabajado en la construcción de **aplicaciones web y móviles**, así como en el **despliegue y automatización de infraestructura en la nube** utilizando buenas prácticas de **DevOps**.
 
-###
+Tengo un enfoque orientado a **soluciones escalables**, seguridad, automatización y trabajo colaborativo en entornos técnicos.
 
-<h3 align="left">🛠️ Lenguajes y Herramientas</h3>
+---
 
-###
+## 🛠️ Tecnologías y Herramientas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
-</div>
+### 💻 Backend & Desarrollo
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
+### 🌐 Frontend & Mobile
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<h3 align="left">🚀 Proyectos Destacados</h3>
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="left">
-<strong>📌 QRAsist</strong><br>
-Sistema web y móvil para el registro de asistencias mediante códigos QR, con panel administrativo y reportes.<br>
-Tecnologías: HTML, CSS, JavaScript, PHP, MySQL, Flutter
-</p>
+---
 
-<p align="left">
-<strong>📌 Generador Automático de CV con IA</strong><br>
-Aplicación para crear currículums personalizados usando IA generativa y exportación a PDF.<br>
-Tecnologías: JavaScript, IA generativa, PDF
-</p>
+## 📌 Experiencia Profesional
 
-<p align="left">
-<strong>📌 Infraestructura en la Nube con Terraform</strong><br>
-Despliegue de infraestructura en AWS usando Terraform como infraestructura como código (IaC).
-</p>
+### 🏫 Instituto Tecnológico de Mérida (2024 – 2025)  
+**Desarrollador Backend & Cloud**
 
-###
+- Desarrollo de sistemas **web y móviles** con enfoque backend.
+- Implementación de **registro de asistencias con códigos QR**.
+- Integración con bases de datos y generación de reportes.
+- Participación en proyectos institucionales con metodologías estructuradas.
 
-<h3 align="left">🔥 Estadísticas de GitHub</h3>
+---
 
-###
+## 💡 Proyectos Relevantes
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoelCauichP&theme=dark&hide_border=false&border_radius=5" height="220" />
-</div>
+### 🔹 QRAsist – Sistema de Asistencias con QR
+Sistema web y móvil para la gestión de asistencias académicas.
 
-###
+**Stack:**  
+`PHP` · `MySQL` · `JavaScript` · `Flutter` · `QR`
 
-⭐ <em>Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones escalables.</em>
+---
 
+### 🔹 Generador Automático de CV con IA
+Aplicación para crear currículums personalizados usando **IA generativa**.
+
+**Características clave:**
+- Generación automática de contenido
+- Exportación en PDF
+- Uso práctico en procesos de reclutamiento
+
+**Stack:**  
+`JavaScript` · `IA Generativa` · `PDF`
+
+---
+
+### 🔹 Infraestructura Cloud con Terraform (AWS)
+Diseño y despliegue de infraestructura en la nube usando **Infrastructure as Code**.
+
+**Componentes:**
+- AWS (VPC, servicios base)
+- Terraform
+- Automatización y control de versiones
+
+---
+
+## 🌱 Enfoque Actual
+
+- Cloud Computing y DevOps  
+- Backend escalable  
+- Infraestructura como Código (IaC)  
+- Buenas prácticas de seguridad y despliegue  
+
+---
+
+## 🤝 Habilidades Clave
+
+- Pensamiento analítico  
+- Resolución de problemas  
+- Trabajo en equipo  
+- Comunicación técnica  
+- Aprendizaje continuo  
+
+---
+
+## 📫 Contacto
+
+📧 **Correo:** joel.cauich.2001@gmail.com  
+📱 **Teléfono:** 999 568 7291  
+
+---
+
+⭐ *Perfil orientado a roles de Backend Developer, Cloud Engineer o DevOps Junior.*
