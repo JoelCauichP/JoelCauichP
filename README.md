@@ -18,12 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoelCauichP.JoelCauichP" />
-</div>
-
-###
-
 # Hola, soy Joel Santiago Cauich Peraza
 
 💻 **Ingeniero en Sistemas Computacionales**  
